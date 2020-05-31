@@ -6,13 +6,13 @@
 
 ## Description
 
-_The website adds two numbers together._
+_The website adds, subtracts, multiplies and divides two numbers together._
 
 ## Setup/Installation Requirements
 
 * _Go to Github_
 * _Click on clone or download_
-* _Copy URL link https://github.com/EmmaHHellman/portfolio_
+* _Copy URL link https://github.com/EmmaHHellman/calculator.git_
 * _Enter URL link into address bar and navigate to site_
 
 ## Known Bugs
